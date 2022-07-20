@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package 
+  xmlns="http://expath.org/ns/pkg" name="http://obdurodon.org/apps/07-svg"
+  abbrev="07-svg" version="1.0.0" spec="1.0">
+  <title>My amazing 07-svg-visualize application</title>
+  <dependency processor="http://exist-db.org" semver-min="5.3.0"/>
+</package>

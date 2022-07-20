@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meta 
+  xmlns="http://exist-db.org/xquery/repo">
+  <description>My amazing 07-svg-visualize application</description>
+  <author>gabikeane</author>
+  <website>http://obdurodon.org</website>
+  <status>alpha</status>
+  <license>MIT</license>
+  <copyright>true</copyright>
+  <type>application</type>
+  <target>07-svg</target>
+  <prepare>pre-install.xq</prepare>
+  <finish>post-install.xq</finish>
+</meta>
